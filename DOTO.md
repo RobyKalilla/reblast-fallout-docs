@@ -3,3 +3,7 @@
 3) Expand the team
 4) Correct any errors and provide examples
 5) Publish
+
+To add to the doc:
+Fallout Tactics uses .bik movie files, mp3 and wav files for music.
+.bos files are used for almost everything else.
