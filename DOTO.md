@@ -10,3 +10,4 @@ Fallout Tactics uses .bik movie files, mp3 and wav files for music.
 Also no ducumentation talks about .flt, m3d and .asi files that are used in it, further research is required,
 they might contain importnat assets.
 Its multiplayer mode is completely undocumented from what I know, more work NEEDS to be done here.
+Include a note about the Phoenix engine.
